@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d00e89a7-d373-4659-ab5d-7fc641acf9d4": {
+      "ProjectGuid": "d00e89a7-d373-4659-ab5d-7fc641acf9d4",
+      "DisplayName": "Belousov_sort",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
